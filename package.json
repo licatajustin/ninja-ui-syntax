@@ -1,0 +1,19 @@
+{
+  "name": "ninja-ui-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Beautiful syntax theme inspired by a Dribbble shot.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "uixninja",
+    "dribbble",
+    "ninja",
+    "beautiful"
+  ],
+  "repository": "https://github.com/licatajustin/ninja-ui-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
