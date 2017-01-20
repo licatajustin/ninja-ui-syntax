@@ -6,6 +6,14 @@ by [uixninja](https://dribbble.com/uixninja).
 
 ---
 
+### Installation
+
+```bash
+apm install ninja-ui-syntax
+```
+
+### Screenshots
+
 *JavaScript*
 ![Screenshot of JavaScript](https://raw.githubusercontent.com/licatajustin/ninja-ui-syntax/master/assets/javascript.png)
 
